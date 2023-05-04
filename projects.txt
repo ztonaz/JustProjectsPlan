@@ -1,1 +1,14 @@
+1. Trivia Web App (In progress): 
+  Challenge of who answer faster or who write faster a text on screen. Has challenges, ranks and chats
+ 
+2. Twitter scrapper (Not in progress): 
+  Automatically like some tweets with specific words in it
 
+3. Android easy trivia (In progress):
+  Not complicated app. You have answer options: a, b, c, d. App created more for learning how to use Firebase 
+  
+4. Android and Web App + Arduino (Not in progress):
+  For house control like lights, drapes, vocal controls and more. 
+
+5. Restaurant Web app and Android App (In progress):
+  Just to learn more about spring boot, rest services amd android programming
