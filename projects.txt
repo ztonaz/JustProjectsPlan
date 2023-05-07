@@ -42,3 +42,6 @@ Web Apps, Android Apps or Both I'm trying or I did to create (Backend and Fronte
   
 14. Under brainstorming progress (Not in progress):
   Think of an app, website which can give me lots of money
+  
+15. Own portofolio Web
+  Create a dynamic portofolio web with some of my best apps and all the links
