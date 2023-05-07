@@ -1,4 +1,4 @@
-1. Trivia Web App (In progress): 
+1. Trivia Web App (In progress) - #1 priority: 
   Challenge of who answer faster or who write faster a text on screen. Has challenges, ranks and chats
  
 2. Twitter scrapper (Not in progress): 
@@ -12,3 +12,30 @@
 
 5. Restaurant Web app and Android App (In progress):
   Just to learn more about spring boot, rest services amd android programming
+
+6. Laser collision warning (Not in progress):
+  Install in any car collision warning system
+  
+7. Crypto Bot (Not in progress):
+  Create a bot which buys and sells crypto automatically 
+  
+8. Porn Percent (Not in progress):
+  How porn is your URL or all of your domain pages
+  
+9. Create an AI for lottery (Not in progress);
+  Create an AI that predicts lottery numbers
+
+10. Super Mario type game (Not in progress):
+  Create a Super Mario type game with only 10 levels to pass, and don't have to pass more than 35 min to complete the game
+  
+11. Hearthstone type game (Not in progress):
+  Create a Hearthstone type game. The purpose is to waste as less memory as possible
+  
+12. Cheats for any game with Java Robot (Not in progress):
+  Create a cheat for a game with Java Robot (Chess, shooter or other)
+  
+13. Action Indy game (Not in progress):
+  Create an action Indy game with lots of possible outcomes. Ask Cristi to create the story
+  
+14. Under brainstorming progress (Not in progress):
+  Think of an app, website which can give me lots of money
