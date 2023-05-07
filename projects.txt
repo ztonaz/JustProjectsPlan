@@ -1,3 +1,6 @@
+Web Apps, Android Apps or Both I'm trying or I did to create (Backend and Frontend)
+
+
 1. Trivia Web App (In progress) - #1 priority: 
   Challenge of who answer faster or who write faster a text on screen. Has challenges, ranks and chats
  
